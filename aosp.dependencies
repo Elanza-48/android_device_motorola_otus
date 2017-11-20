@@ -1,0 +1,18 @@
+[
+  {
+    "repository":  "Elanza-48/android_device_motorola_msm8610-common",
+    "target_path": "device/motorola/msm8610-common"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+    "branch":      "lineage-15.0"
+  }
+  {
+    "remote":       "github",
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch":      "cm-14.1"
+  },
+
+]
