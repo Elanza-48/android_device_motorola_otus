@@ -4,7 +4,7 @@ $(call inherit-product, device/motorola/otus/full_otus.mk)
 $(call inherit-product, vendor/aosp/common.mk)
 
 # Use Magisk
- +DEFAULT_ROOT_METHOD := magisk
+DEFAULT_ROOT_METHOD := magisk
 
 # Build Type
 EXTENDED_BUILD_TYPE=UNOFFICIAL
